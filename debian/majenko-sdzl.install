@@ -1,0 +1,6 @@
+Board_Data.c boards/MajenkoTechnologies/majenko-sdxl
+Board_Defs.h boards/MajenkoTechnologies/majenko-sdxl
+board.txt boards/MajenkoTechnologies/majenko-sdxl
+bootloader.hex boards/MajenkoTechnologies/majenko-sdxl
+icons boards/MajenkoTechnologies/majenko-sdxl
+MZ-application-32MZ2048ECX.ld boards/MajenkoTechnologies/majenko-sdxl
